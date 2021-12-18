@@ -1,6 +1,6 @@
 # -PlaneGame
 飞机大战游戏Airplane war game
-
+https://blog.csdn.net/i6223671/article/details/99344046
 python项目_飞机大战(爆炸效果,血条,音效,buff加成,boss,菜单,完整详细注释的源码)
 
 ﻿@[TOC]
@@ -1089,7 +1089,6 @@ if __name__ == '__main__':
 # 四, 总结和下载
 这次的项目实践,让我对python面相对象程序设计有了更深的体会,也让我感受到了python语言简洁优雅的美感,如果你觉得还行的话,可以拿去小练一下手,如果有什么问题可以在评论区留言,我会在第一时间回复,
 敲打不易,顺手点个赞吧,
-（づ￣3￣）づ╭❤～.链接：https://pan.baidu.com/s/1QZ4jKe1KJaGdMYZyvvnecA 提取码：dndb 
 
 
 
