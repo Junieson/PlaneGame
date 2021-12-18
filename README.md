@@ -2,10 +2,12 @@
 飞机大战游戏Airplane war game
 https://blog.csdn.net/i6223671/article/details/99344046
 python项目_飞机大战(爆炸效果,血条,音效,buff加成,boss,菜单,完整详细注释的源码)
+---
 python3.7环境下
 pip -r requirements.txt安装依赖
 运行main
-﻿@[TOC]
+---
+@[TOC]
 # 一. 总体概览
 **话不多说,先看效果图,动作是有声音的,但是放不出来**
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190812182648683.gif)![在这里插入图片描述](https://img-blog.csdnimg.cn/2019081218273268.gif)![在这里插入图片描述](https://img-blog.csdnimg.cn/20190812182926386.gif)![在这里插入图片描述](https://img-blog.csdnimg.cn/20190812182048512.gif)![在这里插入图片描述](https://img-blog.csdnimg.cn/20190812181748343.gif)![在这里插入图片描述](https://img-blog.csdnimg.cn/20190812182327410.gif)
